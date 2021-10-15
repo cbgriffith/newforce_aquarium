@@ -10,32 +10,37 @@ const fishCollection = [
         species: "Goldfish",
         length: "1-6 inches",
         food: "Vegetation",
-        location: "Ohio River"
+        location: "Ohio River",
+        image: './images/goldfish.jpg'
     },
     {
         name: "Bart",
         species: "Large Mouth Bass",
         length: "15.7 inches",
         food: "fish, crayfish, and frogs",
-        location: "Kanawha River"
+        location: "Kanawha River",
+        image: './images/largemouthbass.jpg'
     },
     {   name: "Burt",
         species: "Brook Trout",
         length:"10.4 inches",
         food:"worms, insects, fish",
-        location:"New River" 
+        location:"New River",
+        image: './images/brooktrout.jpg'
     },
     {   name: "Beavis",
         species: "Walleye",
         length:"22.3 inches",
         food:"yellow perch, minnows",
-        location:"Mississippi River"
+        location:"Mississippi River",
+        image: './images/walleye.jpg'
     },
     {   name: "Butthead",
         species: "Red-bellied Piranha",
         length:"12 inches",
         food:"flesh",
-        location:"Amazon River"
+        location:"Amazon River",
+        image: './images/redbelliedpiranha.jpg'
     }
 ]
 
