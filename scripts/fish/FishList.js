@@ -1,7 +1,7 @@
 /**
  *   FishList which renders individual fish objects as HTML
  */
- import { useFish } from "./FishDataProvider.js"
+ import { mostHolyFish, nonHolyFish, soldierFish, useFish } from "./FishDataProvider.js"
  import { Fish } from "./Fish.js"
  
  export const FishList = () => {
@@ -29,4 +29,3 @@
          </article>
      `
  }
- 
